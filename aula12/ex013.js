@@ -1,5 +1,5 @@
 var agora = new Date()
-var diaSem = agora.getDate()
+var diaSem = agora.getDay()
 
 console.log(diaSem)
 
